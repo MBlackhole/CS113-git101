@@ -1,0 +1,4 @@
+git
+รู้จัก git
+การทำงานต่างๆของ git เช่นการ add commit และ push files
+ได้สมัครgithub.com
